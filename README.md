@@ -26,8 +26,8 @@
 
 ### My Github Status
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heegong123)](https://github.com/heegong)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heegong)](https://github.com/heegong)
 
 ### My Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heegong123)](https://github.com/heegong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heegong)](https://github.com/heegong)
