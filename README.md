@@ -10,8 +10,8 @@
 
 <div align=left>
 
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100007619074406)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kimtong6451@gmail.com)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heegong123)](https://www.facebook.com/heegong123)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zaqw13440@gmail.com)](mailto:zaqw13440@gmail.com)
 	
 </div>
 
@@ -26,8 +26,8 @@
 
 ### My Github Status
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimminwyk)](https://github.com/heegong)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heegong123)](https://github.com/heegong)
 
 ### My Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminwyk)](https://github.com/heegong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heegong123)](https://github.com/heegong)
